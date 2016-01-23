@@ -1,0 +1,26 @@
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.exe.config
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.exe
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.pdb
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Bearing_Life_Distribution_Form.resources
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Properties.Resources.resources
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.csproj.GenerateResource.Cache
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.exe
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.pdb
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Delay_Time_Distribution_Form.resources
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Main_Form.resources
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.System_Output.resources
+C:\Users\Islam\Desktop\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Chart.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.exe.config
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.exe
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.pdb
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.exe
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\bin\Debug\Bearing Machine.pdb
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Bearing_Life_Distribution_Form.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Chart.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Delay_Time_Distribution_Form.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Main_Form.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.Properties.Resources.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing_Machine.System_Output.resources
+C:\Users\Islam\Downloads\Bearing-Machine\Bearing Machine\Bearing Machine\obj\Debug\Bearing Machine.csproj.GenerateResource.Cache
